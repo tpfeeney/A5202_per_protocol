@@ -49,3 +49,5 @@ po/*~
 rsconnect/
 
 run_to_update_files.sh
+
+.DS_Store
